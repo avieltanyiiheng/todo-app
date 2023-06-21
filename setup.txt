@@ -1,0 +1,13 @@
+1) Todo items
+- Have a title, description, dueDate, priority. (might want to include notes, checklist)
+
+2) todo list
+- have projects, or separate list of todos.
+- when opened, should have a default project which all of their todos are put.
+- users should be able to create new projects, and choose which project their todos go into.
+
+3) UI
+- view all projects
+- view all todos in each project (title, due date, etc.)
+- expand a todo to see all details. 
+- delete a todos
